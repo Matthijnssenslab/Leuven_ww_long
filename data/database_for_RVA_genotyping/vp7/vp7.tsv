@@ -1,0 +1,365 @@
+accession	serotype	segment	Organism_Name	Host	Collection_Date
+MF580840.1	G9	VP7	"MF580840.1 |Human rotavirus A isolate Hu/JS2010 segment 9, complete sequence"	Homo sapiens	
+MF580841.1	G9	VP7	"MF580841.1 |Human rotavirus A isolate Hu/JS2011 segment 9, complete sequence"	Homo sapiens	
+MF580842.1	G9	VP7	"MF580842.1 |Human rotavirus A isolate Hu/JS2012 segment 9, complete sequence"	Homo sapiens	
+MF580843.1	G9	VP7	"MF580843.1 |Human rotavirus A isolate Hu/JS2013 segment 9, complete sequence"	Homo sapiens	
+MF580844.1	G9	VP7	"MF580844.1 |Human rotavirus A isolate Hu/JS2014 segment 9, complete sequence"	Homo sapiens	
+MF580845.1	G9	VP7	"MF580845.1 |Human rotavirus A isolate Hu/JS2015 segment 9, complete sequence"	Homo sapiens	
+MF580846.1	G9	VP7	"MF580846.1 |Human rotavirus A isolate Hu/JS2016 segment 9, complete sequence"	Homo sapiens	
+OR453284.1	G9	VP7	"OR453284.1 |Human rotavirus A strain 20150577 segment 9, complete sequence"	Homo sapiens	
+OR453280.1	G9	VP7	"OR453280.1 |Human rotavirus A strain 20180078 segment 9, complete sequence"	Homo sapiens	
+OR453285.1	G9	VP7	"OR453285.1 |Human rotavirus A strain 20180200 segment 9, complete sequence"	Homo sapiens	
+OR453286.1	G9	VP7	"OR453286.1 |Human rotavirus A strain 20180341 segment 9, complete sequence"	Homo sapiens	
+OR453281.1	G9	VP7	"OR453281.1 |Human rotavirus A strain 20190046 segment 9, complete sequence"	Homo sapiens	
+OR453283.1	G9	VP7	"OR453283.1 |Human rotavirus A strain 20200445 segment 9, complete sequence"	Homo sapiens	
+OR453287.1	G9	VP7	"OR453287.1 |Human rotavirus A strain 20210124 segment 9, complete sequence"	Homo sapiens	
+OR453288.1	G9	VP7	"OR453288.1 |Human rotavirus A strain 20210223 segment 9, complete sequence"	Homo sapiens	
+OR453282.1	G9	VP7	"OR453282.1 |Human rotavirus A strain 20210265 segment 9, complete sequence"	Homo sapiens	
+OR453289.1	G9	VP7	"OR453289.1 |Human rotavirus A strain 20220921 segment 9, complete sequence"	Homo sapiens	
+OR453279.1	G9	VP7	"OR453279.1 |Human rotavirus A strain 20220996 segment 9, complete sequence"	Homo sapiens	
+OR453277.1	G9	VP7	"OR453277.1 |Human rotavirus A strain 226411002 segment 9, complete sequence"	Homo sapiens	
+OR453278.1	G9	VP7	"OR453278.1 |Human rotavirus A strain 226421001 segment 9, complete sequence"	Homo sapiens	
+OR453276.1	G9	VP7	"OR453276.1 |Human rotavirus A strain 226421013 segment 9, complete sequence"	Homo sapiens	
+JF766583.1	G9	VP7	"JF766583.1 |Human rotavirus A strain CAU05-202 segment 9, complete sequence"	Homo sapiens	
+JF766594.1	G9	VP7	"JF766594.1 |Human rotavirus A strain CAU09-371 segment 9, complete sequence"	Homo sapiens	
+JF766605.1	G9	VP7	"JF766605.1 |Human rotavirus A strain CAU09-376 segment 9, complete sequence"	Homo sapiens	
+KJ187604.1	G3	VP7	"KJ187604.1 |Human rotavirus A strain CAU12-2-51 segment 9, complete sequence"	Homo sapiens	
+KF447844.1	G4	VP7	"KF447844.1 |Human rotavirus A strain GX77 segment 9, complete sequence"	Homo sapiens	
+KF447855.1	G4	VP7	"KF447855.1 |Human rotavirus A strain GX78 segment 9, complete sequence"	Homo sapiens	
+KF447866.1	G4	VP7	"KF447866.1 |Human rotavirus A strain GX82 segment 9, complete sequence"	Homo sapiens	
+EU708585.1	G3	VP7	"EU708585.1 |Human rotavirus A strain RVA/Human-tc/CHN/E566/2007/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371682.1	G3	VP7	"KF371682.1 |Human rotavirus A strain RVA/Human-tc/CHN/L148/2004/G3P[8] segment 9, complete sequence"	Homo sapiens	
+DQ873677.1	G3	VP7	"DQ873677.1 |Human rotavirus A strain RVA/Human-tc/CHN/R709/2005/G3P[8] segment 9, complete sequence"	Homo sapiens	
+DQ873678.1	G3	VP7	"DQ873678.1 |Human rotavirus A strain RVA/Human-tc/CHN/Y111/2004/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371713.1	G3	VP7	"KF371713.1 |Human rotavirus A strain RVA/Human-wt/CHN/31/2002/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371724.1	G3	VP7	"KF371724.1 |Human rotavirus A strain RVA/Human-wt/CHN/723/2003/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371735.1	G3	VP7	"KF371735.1 |Human rotavirus A strain RVA/Human-wt/CHN/A16/2000/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371746.1	G3	VP7	"KF371746.1 |Human rotavirus A strain RVA/Human-wt/CHN/E093/2007/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371790.1	G3	VP7	"KF371790.1 |Human rotavirus A strain RVA/Human-wt/CHN/E1367/2008/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371801.1	G3	VP7	"KF371801.1 |Human rotavirus A strain RVA/Human-wt/CHN/E1857/2009/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371812.1	G3	VP7	"KF371812.1 |Human rotavirus A strain RVA/Human-wt/CHN/E1861/2009/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371823.1	G3	VP7	"KF371823.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2000/2010/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371834.1	G3	VP7	"KF371834.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2421/2010/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371845.1	G3	VP7	"KF371845.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2422/2010/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371856.1	G3	VP7	"KF371856.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2432/2010/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371867.1	G3	VP7	"KF371867.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2461/2011/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF726044.1	G4	VP7	"KF726044.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2484/2011/G4P[8] segment 9, complete sequence"	Homo sapiens	
+KF371878.1	G3	VP7	"KF371878.1 |Human rotavirus A strain RVA/Human-wt/CHN/E2835/2011/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371889.1	G3	VP7	"KF371889.1 |Human rotavirus A strain RVA/Human-wt/CHN/E3239/2012/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371757.1	G3	VP7	"KF371757.1 |Human rotavirus A strain RVA/Human-wt/CHN/E329/2007/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371768.1	G3	VP7	"KF371768.1 |Human rotavirus A strain RVA/Human-wt/CHN/E707/2007/G3P[8] segment 9, complete sequence"	Homo sapiens	
+EU708602.1	G4	VP7	"EU708602.1 |Human rotavirus A strain RVA/Human-wt/CHN/E931/2008/G4P[6] segment 9, complete sequence"	Homo sapiens	
+KF371779.1	G3	VP7	"KF371779.1 |Human rotavirus A strain RVA/Human-wt/CHN/E956/2008/G3P[8] segment 9, complete sequence"	Homo sapiens	
+MW383983.1	G9	VP7	"MW383983.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-102/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW383994.1	G9	VP7	"MW383994.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-107/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384005.1	G9	VP7	"MW384005.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-110/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384016.1	G9	VP7	"MW384016.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-113/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384027.1	G9	VP7	"MW384027.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-114/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384038.1	G9	VP7	"MW384038.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-115/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384049.1	G9	VP7	"MW384049.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-118/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384060.1	G9	VP7	"MW384060.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-120/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384071.1	G9	VP7	"MW384071.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-123/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384082.1	G9	VP7	"MW384082.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-130/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384093.1	G9	VP7	"MW384093.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-148/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384104.1	G9	VP7	"MW384104.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-151/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384115.1	G9	VP7	"MW384115.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-152/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384126.1	G1	VP7	"MW384126.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-194/2018/G1P[8] segment 9, complete sequence"	Homo sapiens	
+MW384137.1	G1	VP7	"MW384137.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-195/2018/G1P[8] segment 9, complete sequence"	Homo sapiens	
+MW384148.1	G1	VP7	"MW384148.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-216/2018/G1P[8] segment 9, complete sequence"	Homo sapiens	
+MW384159.1	G1	VP7	"MW384159.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-242/2018/G1P[8] segment 9, complete sequence"	Homo sapiens	
+MW384302.1	G1	VP7	"MW384302.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-262/2018/G1P[8] segment 9, complete sequence"	Homo sapiens	
+MW384170.1	G9	VP7	"MW384170.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-44/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384181.1	G9	VP7	"MW384181.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-56/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384192.1	G9	VP7	"MW384192.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-96/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384203.1	G9	VP7	"MW384203.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-97/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384214.1	G9	VP7	"MW384214.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou18-98/2018/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384225.1	G9	VP7	"MW384225.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-108/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384236.1	G9	VP7	"MW384236.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-113/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384247.1	G9	VP7	"MW384247.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-145/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384258.1	G9	VP7	"MW384258.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-147/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384313.1	G9	VP7	"MW384313.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-35/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384324.1	G9	VP7	"MW384324.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-36/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384335.1	G9	VP7	"MW384335.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-38/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384346.1	G9	VP7	"MW384346.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-41/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384357.1	G9	VP7	"MW384357.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-44/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384368.1	G9	VP7	"MW384368.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-47/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384379.1	G9	VP7	"MW384379.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-50/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384390.1	G9	VP7	"MW384390.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-51/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384401.1	G9	VP7	"MW384401.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-55/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384412.1	G9	VP7	"MW384412.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-58/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384269.1	G9	VP7	"MW384269.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-71/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384280.1	G9	VP7	"MW384280.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-81/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+MW384291.1	G9	VP7	"MW384291.1 |Human rotavirus A strain RVA/Human-wt/CHN/Fuzhou19-84/2019/G9P[8] segment 9, complete sequence"	Homo sapiens	
+KF371920.1	G3	VP7	"KF371920.1 |Human rotavirus A strain RVA/Human-wt/CHN/L1066/2009/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371953.1	G3	VP7	"KF371953.1 |Human rotavirus A strain RVA/Human-wt/CHN/L1450/2012/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371942.1	G3	VP7	"KF371942.1 |Human rotavirus A strain RVA/Human-wt/CHN/L1621/2013/G3P[8] segment 9, complete sequence"	Homo sapiens	
+DQ873671.1	G3	VP7	"DQ873671.1 |Human rotavirus A strain RVA/Human-wt/CHN/L210/2005/G3P[8] segment 9, complete sequence"	Homo sapiens	
+EU708580.1	G3	VP7	"EU708580.1 |Human rotavirus A strain RVA/Human-wt/CHN/L478/2006/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371964.1	G3	VP7	"KF371964.1 |Human rotavirus A strain RVA/Human-wt/CHN/R107/2003/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371931.1	G3	VP7	"KF371931.1 |Human rotavirus A strain RVA/Human-wt/CHN/R1267/2006/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF371986.1	G3	VP7	"KF371986.1 |Human rotavirus A strain RVA/Human-wt/CHN/R1604/2011/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF726066.1	G4	VP7	"KF726066.1 |Human rotavirus A strain RVA/Human-wt/CHN/R1954/2013/G4P[6] segment 9, complete sequence"	Homo sapiens	
+KF371975.1	G3	VP7	"KF371975.1 |Human rotavirus A strain RVA/Human-wt/CHN/R303/2004/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF726055.1	G3	VP7	"KF726055.1 |Human rotavirus A strain RVA/Human-wt/CHN/R946/2006/G3P[6] segment 9, complete sequence"	Homo sapiens	
+KF371997.1	G3	VP7	"KF371997.1 |Human rotavirus A strain RVA/Human-wt/CHN/Y106/2004/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF372008.1	G3	VP7	"KF372008.1 |Human rotavirus A strain RVA/Human-wt/CHN/Z1557/2011/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KF372019.1	G3	VP7	"KF372019.1 |Human rotavirus A strain RVA/Human-wt/CHN/Z1602/2012/G3P[8] segment 9, complete sequence"	Homo sapiens	
+JF460828.1	G3	VP7	"JF460828.1 |Rotavirus A Hu/BEL/F01322/2009/G3P[6] segment 9, complete sequence"	Homo sapiens	
+JF460839.1	G3	VP7	"JF460839.1 |Rotavirus A Hu/BEL/F01498/2009/G3P[6] segment 9, complete sequence"	Homo sapiens	
+JF460817.1	G2	VP7	"JF460817.1 |Rotavirus A Hu/USA/06-242/2006/G2P[6] segment 9, complete sequence"	Homo sapiens	
+HQ650124.1	G9	VP7	"HQ650124.1 |Rotavirus A RVA/Human-tc/USA/DS-1/1976/G2P[4] segment 9, complete sequence"	Homo sapiens	
+JX195068.1	G9	VP7	"JX195068.1 |Rotavirus A RVA/Human-wt/ITA/AV21/2010/G9P8 segment 9, complete sequence"	Homo sapiens	
+JX195079.1	G9	VP7	"JX195079.1 |Rotavirus A RVA/Human-wt/ITA/AV28/2010/G9P8 segment 9, complete sequence"	Homo sapiens	
+JX195090.1	G9	VP7	"JX195090.1 |Rotavirus A RVA/Human-wt/ITA/JES11/2010/G9P8 segment 9, complete sequence"	Homo sapiens	
+OP950166.1	G4	VP7	"OP950166.1 |Rotavirus A isolate 248 segment 9, complete sequence"	Homo sapiens	
+OK349183.1	G8	VP7	"OK349183.1 |Rotavirus A isolate RVA/Human-wt/CHN/GZ-0005/2021/G8P[8] segment 9, complete sequence"	Homo sapiens	
+OK349194.1	G8	VP7	"OK349194.1 |Rotavirus A isolate RVA/Human-wt/CHN/GZ-0013/2021/G8P[8] segment 9, complete sequence"	Homo sapiens	
+JX406755.1	G1	VP7	"JX406755.1 |Rotavirus A strain Human-tc/USA/Wa/1974/G1P[8] segment 9, complete sequence"	Homo sapiens	
+OL906385.1	G3	VP7	"OL906385.1 |Rotavirus A strain RM251122016 segment 9, complete sequence"	Homo sapiens	
+OP937300.1	G3	VP7	"OP937300.1 |Rotavirus A strain RVA/AUS/Human-tc/RV3/1993/G3P[6] segment 9, complete sequence"	Homo sapiens	
+DQ005120.1	G8	VP7	"DQ005120.1 |Rotavirus A strain RVA/Human-wt/COD/DRC86/2003/G8P[6] segment 9, complete sequence"	Homo sapiens	
+DQ005109.1	G8	VP7	"DQ005109.1 |Rotavirus A strain RVA/Human-wt/COD/DRC88/2003/G8P[8] segment 9, complete sequence"	Homo sapiens	
+KJ870905.1	G4	VP7	"KJ870905.1 |Rotavirus A strain RVA/Human-wt/COD/KisB332/2008/G4P[6] segment 9, complete sequence"	Homo sapiens	
+KJ870927.1	G1	VP7	"KJ870927.1 |Rotavirus A strain RVA/Human-wt/COD/KisB504/2009/G1P[6] segment 9, complete sequence"	Homo sapiens	
+KJ870916.1	G12	VP7	"KJ870916.1 |Rotavirus A strain RVA/Human-wt/COD/KisB521/2008/G12P[6] segment 9, complete sequence"	Homo sapiens	
+KJ870894.1	G8	VP7	"KJ870894.1 |Rotavirus A strain RVA/Human-wt/COD/KisB554/2010/G8P[6] segment 9, complete sequence"	Homo sapiens	
+KJ870883.1	G8	VP7	"KJ870883.1 |Rotavirus A strain RVA/Human-wt/COD/KisB565/2010/G8P[6] segment 9, complete sequence"	Homo sapiens	
+KU870393.1	G3equine	VP7	"KU870393.1 |Rotavirus A strain RVA/Human-wt/HUN/ERN8148/2015/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KU870404.1	G3equine	VP7	"KU870404.1 |Rotavirus A strain RVA/Human-wt/HUN/ERN8187/2015/G3P[8] segment 9, complete sequence"	Homo sapiens	
+KU870415.1	G3equine	VP7	"KU870415.1 |Rotavirus A strain RVA/Human-wt/HUN/ERN8263/2015/G3P[8] segment 9, complete sequence"	Homo sapiens	
+MH704732.1	G3equine	VP7	"MH704732.1 |Rotavirus A strain RVA/Human-wt/IDN/D006389b/2014/G3P[8] segment 9, complete sequence"	Homo sapiens	
+MH704733.1	G3equine	VP7	"MH704733.1 |Rotavirus A strain RVA/Human-wt/IDN/D009617g/2015/G3P[8] segment 9, complete sequence"	Homo sapiens	
+PP848607.1	G9	VP7	"PP848607.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1347/2016/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848601.1	G9	VP7	"PP848601.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1357/2016/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848602.1	G9	VP7	"PP848602.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1359/2016/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848603.1	G9	VP7	"PP848603.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1369/2017/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848604.1	G9	VP7	"PP848604.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1371/2017/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848619.1	G1	VP7	"PP848619.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1556/2017/G1P[8] segment 9, complete sequence"	Homo sapiens	
+PP848605.1	G9	VP7	"PP848605.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1597/2017/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848770.1	G9	VP7	"PP848770.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1600/2017/G9P[4] segment 9, complete sequence"	Homo sapiens	
+PP848776.1	G9	VP7	"PP848776.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1604/2017/G9P[4] segment 9, complete sequence"	Homo sapiens	
+PP848609.1	G9	VP7	"PP848609.1 |Rotavirus A strain RVA/Human-wt/MOZ/HCN1855/2017/G9P[4] segment 9, complete sequence"	Homo sapiens	
+PP848620.1	G1	VP7	"PP848620.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM0408/2015/G1P[8] segment 9, complete sequence"	Homo sapiens	
+PP848610.1	G2	VP7	"PP848610.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM0492/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+PP848762.1	G9	VP7	"PP848762.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM1647/2017/G9P[4] segment 9, complete sequence"	Homo sapiens	
+PP848614.1	G3	VP7	"PP848614.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM1696/2017/G3P[4] segment 9, complete sequence"	Homo sapiens	
+PP848613.1	G3	VP7	"PP848613.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM1768/2017/G3P[4] segment 9, complete sequence"	Homo sapiens	
+PP848606.1	G9	VP7	"PP848606.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM1782/2017/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848612.1	G3	VP7	"PP848612.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM1856/2018/G3P[4] segment 9, complete sequence"	Homo sapiens	
+PP848618.1	G3	VP7	"PP848618.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGJM2122/2018/G3P[8] segment 9, complete sequence"	Homo sapiens	
+PP848615.1	G3	VP7	"PP848615.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGM1235/2016/G3P[4] segment 9, complete sequence"	Homo sapiens	
+PP848608.1	G9	VP7	"PP848608.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGM1883/2018/G9P[6] segment 9, complete sequence"	Homo sapiens	
+PP848616.1	G3	VP7	"PP848616.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGM2025/2017/G3P[8] segment 9, complete sequence"	Homo sapiens	
+PP848617.1	G3	VP7	"PP848617.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGM2187/2018/G3P[8] segment 9, complete sequence"	Homo sapiens	
+PP848611.1	G2	VP7	"PP848611.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGQ1141/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+PP848726.1	G9	VP7	"PP848726.1 |Rotavirus A strain RVA/Human-wt/MOZ/HGQ1296/2016/G9P[6] segment 9, complete sequence"	Homo sapiens	
+HQ657143.1	G8	VP7	"HQ657143.1 |Rotavirus A strain RVA/Human-wt/MWI/1473/2001/G8P[4] segment 9, complete sequence"	Homo sapiens	
+OP717596.1	G2	VP7	"OP717596.1 |Rotavirus A strain RVA/Human-wt/MWI/BID11I/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717597.1	G2	VP7	"OP717597.1 |Rotavirus A strain RVA/Human-wt/MWI/BID14S/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717591.1	G2	VP7	"OP717591.1 |Rotavirus A strain RVA/Human-wt/MWI/BID155/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717592.1	G2	VP7	"OP717592.1 |Rotavirus A strain RVA/Human-wt/MWI/BID156/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717593.1	G2	VP7	"OP717593.1 |Rotavirus A strain RVA/Human-wt/MWI/BID157/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717594.1	G2	VP7	"OP717594.1 |Rotavirus A strain RVA/Human-wt/MWI/BID15B/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717595.1	G2	VP7	"OP717595.1 |Rotavirus A strain RVA/Human-wt/MWI/BID175/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717620.1	G1	VP7	"OP717620.1 |Rotavirus A strain RVA/Human-wt/MWI/BID17S/2013/G1P[8] segment 9, complete sequence"	Homo sapiens	
+OP717598.1	G2	VP7	"OP717598.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1BS/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717599.1	G2	VP7	"OP717599.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1CQ/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717600.1	G2	VP7	"OP717600.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1E1/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717601.1	G2	VP7	"OP717601.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1G8/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717602.1	G2	VP7	"OP717602.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1GF/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717603.1	G2	VP7	"OP717603.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1HR/2012/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717604.1	G2	VP7	"OP717604.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1PP/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717615.1	G2	VP7	"OP717615.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1SD/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717622.1	G2	VP7	"OP717622.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1VD/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717623.1	G2	VP7	"OP717623.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1VI/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717624.1	G2	VP7	"OP717624.1 |Rotavirus A strain RVA/Human-wt/MWI/BID1ZJ/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717643.1	G2	VP7	"OP717643.1 |Rotavirus A strain RVA/Human-wt/MWI/BID208/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717625.1	G2	VP7	"OP717625.1 |Rotavirus A strain RVA/Human-wt/MWI/BID22C/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717626.1	G2	VP7	"OP717626.1 |Rotavirus A strain RVA/Human-wt/MWI/BID237/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717605.1	G2	VP7	"OP717605.1 |Rotavirus A strain RVA/Human-wt/MWI/BID253/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717606.1	G2	VP7	"OP717606.1 |Rotavirus A strain RVA/Human-wt/MWI/BID257/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717638.1	G2	VP7	"OP717638.1 |Rotavirus A strain RVA/Human-wt/MWI/BID25P/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717639.1	G2	VP7	"OP717639.1 |Rotavirus A strain RVA/Human-wt/MWI/BID25S/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717644.1	G2	VP7	"OP717644.1 |Rotavirus A strain RVA/Human-wt/MWI/BID25Y/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717607.1	G2	VP7	"OP717607.1 |Rotavirus A strain RVA/Human-wt/MWI/BID27S/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717621.1	G2	VP7	"OP717621.1 |Rotavirus A strain RVA/Human-wt/MWI/BID283/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717608.1	G2	VP7	"OP717608.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2AB/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717609.1	G2	VP7	"OP717609.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2B8/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717616.1	G2	VP7	"OP717616.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2B9/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717617.1	G2	VP7	"OP717617.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2BA/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717610.1	G2	VP7	"OP717610.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2BL/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717611.1	G2	VP7	"OP717611.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2D8/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717618.1	G2	VP7	"OP717618.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2DG/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717612.1	G2	VP7	"OP717612.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2FW/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717613.1	G2	VP7	"OP717613.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2IJ/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717640.1	G2	VP7	"OP717640.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2JW/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717627.1	G2	VP7	"OP717627.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2K6/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717641.1	G2	VP7	"OP717641.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2K9/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717628.1	G2	VP7	"OP717628.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2KQ/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717629.1	G2	VP7	"OP717629.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2LB/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717630.1	G2	VP7	"OP717630.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2ML/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717631.1	G2	VP7	"OP717631.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2NL/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717642.1	G2	VP7	"OP717642.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2NZ/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717614.1	G2	VP7	"OP717614.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2PE/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717619.1	G2	VP7	"OP717619.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2PF/2013/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717632.1	G2	VP7	"OP717632.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2Q5/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717633.1	G2	VP7	"OP717633.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2QF/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717634.1	G2	VP7	"OP717634.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2QQ/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717635.1	G2	VP7	"OP717635.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2QX/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717636.1	G2	VP7	"OP717636.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2R1/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717637.1	G2	VP7	"OP717637.1 |Rotavirus A strain RVA/Human-wt/MWI/BID2VF/2014/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717645.1	G2	VP7	"OP717645.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY14X/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717650.1	G2	VP7	"OP717650.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY167/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717646.1	G2	VP7	"OP717646.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY16A/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717647.1	G2	VP7	"OP717647.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY177/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717651.1	G2	VP7	"OP717651.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY179/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717652.1	G2	VP7	"OP717652.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY17I/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717648.1	G2	VP7	"OP717648.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY184/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717655.1	G2	VP7	"OP717655.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1CV/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717653.1	G2	VP7	"OP717653.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1DG/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717649.1	G2	VP7	"OP717649.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1DP/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717656.1	G2	VP7	"OP717656.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1FD/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717657.1	G2	VP7	"OP717657.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1GK/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717658.1	G2	VP7	"OP717658.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1H3/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717659.1	G2	VP7	"OP717659.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1HR/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717660.1	G2	VP7	"OP717660.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1HT/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717654.1	G2	VP7	"OP717654.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1IJ/2015/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717661.1	G2	VP7	"OP717661.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1K4/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717662.1	G2	VP7	"OP717662.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1K6/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717663.1	G2	VP7	"OP717663.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1LD/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717664.1	G2	VP7	"OP717664.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1LN/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717665.1	G2	VP7	"OP717665.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1LQ/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717666.1	G2	VP7	"OP717666.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1MB/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717667.1	G2	VP7	"OP717667.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1NG/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717668.1	G2	VP7	"OP717668.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1NY/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717669.1	G2	VP7	"OP717669.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1QZ/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717670.1	G2	VP7	"OP717670.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1RS/2016/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717671.1	G2	VP7	"OP717671.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1SV/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717672.1	G2	VP7	"OP717672.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1SX/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717673.1	G2	VP7	"OP717673.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1TC/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717674.1	G2	VP7	"OP717674.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1VC/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717675.1	G2	VP7	"OP717675.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1VP/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717676.1	G2	VP7	"OP717676.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1WV/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717677.1	G2	VP7	"OP717677.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1YD/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717678.1	G2	VP7	"OP717678.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1YN/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717679.1	G2	VP7	"OP717679.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY1Z4/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717680.1	G2	VP7	"OP717680.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY202/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717681.1	G2	VP7	"OP717681.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY217/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717682.1	G2	VP7	"OP717682.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY220/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717683.1	G2	VP7	"OP717683.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY231/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717684.1	G2	VP7	"OP717684.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY23A/2017/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717685.1	G2	VP7	"OP717685.1 |Rotavirus A strain RVA/Human-wt/MWI/BTY27R/2018/G2P[4] segment 9, complete sequence"	Homo sapiens	
+KU714449.1	G1	VP7	"KU714449.1 |Rotavirus A strain RVA/Human-wt/MWI/MW2-181_A/2000/G1P[8] segment 9, complete sequence"	Homo sapiens	
+KU714460.1	G1	VP7	"KU714460.1 |Rotavirus A strain RVA/Human-wt/MWI/MW2-181_B/2000/G1P[8] segment 9, complete sequence"	Homo sapiens	
+OP717586.1	G2	VP7	"OP717586.1 |Rotavirus A strain RVA/Human-wt/MWI/MW5-039/2008/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717587.1	G2	VP7	"OP717587.1 |Rotavirus A strain RVA/Human-wt/MWI/MW5-048/2008/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717588.1	G2	VP7	"OP717588.1 |Rotavirus A strain RVA/Human-wt/MWI/MW5-064/2008/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717589.1	G2	VP7	"OP717589.1 |Rotavirus A strain RVA/Human-wt/MWI/OP5-009/2008/G2P[4] segment 9, complete sequence"	Homo sapiens	
+OP717590.1	G2	VP7	"OP717590.1 |Rotavirus A strain RVA/Human-wt/MWI/OP5-275/2009/G2P[4] segment 9, complete sequence"	Homo sapiens	
+KX655489.1	G12	VP7	"KX655489.1 |Rotavirus A strain RVA/Human-wt/UGA/KTV-13-023/2013/G12P[6] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX655511.1	G9	VP7	"KX655511.1 |Rotavirus A strain RVA/Human-wt/UGA/MSK-13-048/2013/G9P[8] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX632314.1	G9	VP7	"KX632314.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-12-093/2012/G9P[8] segment 9, complete sequence"	Homo sapiens	
+KX632336.1	G3	VP7	"KX632336.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-12-104/2012/G3P[6] segment 9, complete sequence"	Homo sapiens	
+KX655478.1	G3	VP7	"KX655478.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-12-117/2012/G3P[6] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX632303.1	G9	VP7	"KX632303.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-12-147/2012/G9P[8] segment 9, complete sequence"	Homo sapiens	
+KX632347.1	G1	VP7	"KX632347.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-157/2013/G1P[8] segment 9, complete sequence"	Homo sapiens	
+KX632292.1	G9	VP7	"KX632292.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-163/2013/G9P[8] segment 9, complete sequence"	Homo sapiens	
+KX632281.1	G3	VP7	"KX632281.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-166/2013/G3P[6] segment 9, complete sequence"	Homo sapiens	
+KX655444.1	G3	VP7	"KX655444.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-171/2013/G3P[6] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX655445.1	G3	VP7	"KX655445.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-171/2013/G3P[6] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX632270.1	G12	VP7	"KX632270.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-183/2013/G12P[6] segment 9, complete sequence"	Homo sapiens	
+KX655456.1	G8	VP7	"KX655456.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-204/2013/G8P[6] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX632325.1	G9	VP7	"KX632325.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-285/2013/G9P[8] segment 9, complete sequence"	Homo sapiens	
+KX655522.1	G8	VP7	"KX655522.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-427/2013/G8P[4] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX655467.1	G8	VP7	"KX655467.1 |Rotavirus A strain RVA/Human-wt/UGA/MUL-13-496/2013/G8P[4] VP7 (VP7) mRNA, complete cds"	Homo sapiens	
+KX632248.1	G9	VP7	"KX632248.1 |Rotavirus A strain RVA/Human-wt/UGA/NSA-13-043/2013/G9P[8] segment 9, complete sequence"	Homo sapiens	
+JN013998.1	G9	VP7	"JN013998.1 |Rotavirus A strain RVA/Human-wt/ZAF/2371WC/2008/G9P[8] isolate 2371WCVP7A segment 9, complete sequence"	Homo sapiens	
+JN014000.1	G9	VP7	"JN014000.1 |Rotavirus A strain RVA/Human-wt/ZAF/2371WC/2008/G9P[8] isolate 2371WCVP7C segment 9, complete sequence"	Homo sapiens	
+JN014001.1	G9	VP7	"JN014001.1 |Rotavirus A strain RVA/Human-wt/ZAF/2371WC/2008/G9P[8] isolate 2371WCVP7D segment 9, complete sequence"	Homo sapiens	
+HQ657154.1	G12	VP7	"HQ657154.1 |Rotavirus A strain RVA/Human-wt/ZAF/3133WC/2009/G12P[4] segment 9, complete sequence"	Homo sapiens	
+HQ657165.1	G12	VP7	"HQ657165.1 |Rotavirus A strain RVA/Human-wt/ZAF/3176WC/2009/G12P[6] segment 9, complete sequence"	Homo sapiens	
+OP255986.1	G9	VP7	"OP255986.1 |Rotavirus A strain RVA_RIVM_R04-10/Hu/NL/2018_seg9_gt-G9 segment 9, complete sequence"	Homo sapiens	
+OP903155.1	G9	VP7	"OP903155.1 |Rotavirus A strain WI61 segment 9, complete sequence"	Homo sapiens	
+X0E3YHTOBF1.1	G1	VP7	"X0E3YHTOBF1.1 |G1-RVA/Human-tc/USA/Wa/1974/G1P8 segment VP7, complete sequence"		
+2XMYUQMCXI3.1	G1	VP7	"2XMYUQMCXI3.1 |G1-RVA/Human-tc/JPN/KU/1974/G1P8 segment VP7, complete sequence"		
+MT1ISTDL7D5.1	G1	VP7	"MT1ISTDL7D5.1 |G1-RVA/Human-wt/BGD/Dhaka16/2003/G1P8 segment VP7, complete sequence"		
+GC1375YBXV8.1	G1	VP7	"GC1375YBXV8.1 |G1-RVA/Human-tc/USA/D/1974/G1P8 segment VP7, complete sequence"		
+UOV6QQFW7QZ.1	G2	VP7	"UOV6QQFW7QZ.1 |G2-RVA/Human-tc/USA/DS-1/1976/G2P4 segment VP7, complete sequence"		
+SZBL6PO48WG.1	G2	VP7	"SZBL6PO48WG.1 |G2-RVA/Human-wt/CHN/TB-Chen/1996/G2P4 segment VP7, complete sequence"		
+BCY84XCT2RB.1	G3	VP7	"BCY84XCT2RB.1 |G3-RVA/Simian-tc/ZAF/SA11-H96/1958/G3P2 segment VP7, complete sequence"		
+MTTGXJJ35T9.1	G3	VP7	"MTTGXJJ35T9.1 |G3-RVA/Rabbit-tc/ITA/30-96/1996/G3P14 segment VP7, complete sequence"		
+E3VJRQFN14W.1	G3	VP7	"E3VJRQFN14W.1 |G3-RVA/Human-tc/USA/P/1974/G3P8 segment VP7, complete sequence"		
+LHMMZ9OK5X5.1	G3	VP7	"LHMMZ9OK5X5.1 |G3-RVA/Human-tc/JPN/AU-1/1982/G3P9 segment VP7, complete sequence"		
+VZ3XCG2XB56.1	G3	VP7	"VZ3XCG2XB56.1 |G3-RVA/Human-wt/BEL/B4106/2000/G3P14 segment VP7, complete sequence"		
+66K0N0GF90S.1	G3	VP7	"66K0N0GF90S.1 |G3-RVA/Pig-tc/VEN/A131/1988/G3P7 segment VP7, complete sequence"		
+MWFBN26C7OB.1	G4	VP7	"MWFBN26C7OB.1 |G4-RVA/Pig-tc/USA/Gottfried/1983/G4P6 segment VP7, complete sequence"		
+RHDNSXVSWT1.1	G4	VP7	"RHDNSXVSWT1.1 |G4-RVA/Human-tc/GBR/ST3/1975/G4P6 segment VP7, complete sequence"		
+MB393AAY4GA.1	G5	VP7	"MB393AAY4GA.1 |G5-RVA/Pig-tc/USA/OSU/1977/G5P7 segment VP7, complete sequence"		
+JEJJGBHITJL.1	G5	VP7	"JEJJGBHITJL.1 |G5-RVA/Human-tc/BRA/IAL28/1992/G5P8 segment VP7, complete sequence"		
+44JR659O270.1	G6	VP7	"44JR659O270.1 |G6-RVA/Human-wt/HUN/BP1879/2003/G6P14 segment VP7, complete sequence"		
+4EZ6R4E399H.1	G6	VP7	"4EZ6R4E399H.1 |G6-RVA/Cow-tc/FRA/RF/1982/G6P1 segment VP7, complete sequence"		
+CD7B8GWV35R.1	G6	VP7	"CD7B8GWV35R.1 |G6-RVA/Cow-tc/GBR/UK/1973/G6P5 segment VP7, complete sequence"		
+YZRMXSLKMJY.1	G6	VP7	"YZRMXSLKMJY.1 |G6-RVA/Cow-tc/USA/WC3/1981/G6P5 segment VP7, complete sequence"		
+36UAMDIUDNJ.1	G6	VP7	"36UAMDIUDNJ.1 |G6-RVA/Human-wt/BEL/B1711/2002/G6P6 segment VP7, complete sequence"		
+W6E8IV127DJ.1	G6	VP7	"W6E8IV127DJ.1 |G6-RVA/Human-tc/USA/Se584/1998/G6P9 segment VP7, complete sequence"		
+DH9LYD6CV01.1	G6	VP7	"DH9LYD6CV01.1 |G6-RVA/Human-wt/HUN/Hun5/1997/G6P14 segment VP7, complete sequence"		
+BTB7VV1QWTY.1	G6	VP7	"BTB7VV1QWTY.1 |G6-RVA/Human-tc/AUS/MG6/1993/G6P14 segment VP7, complete sequence"		
+RZ56O7OBTAC.1	G6	VP7	"RZ56O7OBTAC.1 |G6-RVA/Human-tc/ITA/PA169/1988/G6P14 segment VP7, complete sequence"		
+MYTPAYHW2TB.1	G6	VP7	"MYTPAYHW2TB.1 |G6-RVA/Human-wt/ITA/111-05-27/2005/G6P14 segment VP7, complete sequence"		
+T44LQZVT5RS.1	G6	VP7	"T44LQZVT5RS.1 |G6-RVA/Human-wt/BEL/B10925/1997/G6P14 segment VP7, complete sequence"		
+C2KVP7OC7NB.1	G7	VP7	"C2KVP7OC7NB.1 |G7-RVA/Turkey-tc/IRL/Ty-1/1979/G17P17 segment VP7, complete sequence"		
+PVAHEJRN27Q.1	G8	VP7	"PVAHEJRN27Q.1 |G8-RVA/Human-wt/COD/DRC86/2003/G8P6 segment VP7, complete sequence"		
+LAAMLOGIMK9.1	G8	VP7	"LAAMLOGIMK9.1 |G8-RVA/Sheep-tc/ESP/OVR762/2002/G8P14 segment VP7, complete sequence"		
+9B25OCTXV8J.1	G8	VP7	"9B25OCTXV8J.1 |G8-RVA/Human-wt/HUN/BP1062/2004/G8P14 segment VP7, complete sequence"		
+ZWLS2TIZKFU.1	G8	VP7	"ZWLS2TIZKFU.1 |G8-RVA/Guanaco-wt/ARG/Rio_Negro/1998/G8P1 segment VP7, complete sequence"		
+FV98JX4GK5I.1	G8	VP7	"FV98JX4GK5I.1 |G8-RVA/Human-wt/COD/DRC88/2003/G8P8 segment VP7, complete sequence"		
+DE969EB8UQJ.1	G8	VP7	"DE969EB8UQJ.1 |G8-RVA/Human-tc/IND/69M/1980/G8P10 segment VP7, complete sequence"		
+ZXPPE2COE34.1	G9	VP7	"ZXPPE2COE34.1 |G9-RVA/Human-tc/USA/WI61/1983/G9P8 segment VP7, complete sequence"		
+S0UWCL0MBCO.1	G9	VP7	"S0UWCL0MBCO.1 |G9-RVA/Human-wt/BEL/B3458/2003/G9P8 segment VP7, complete sequence"		
+L6AFXX9XV52.1	G10	VP7	"L6AFXX9XV52.1 |G10-RVA/Human-tc/GBR/A64/1987/G10P14 segment VP7, complete sequence"		
+NIE985VHYIT.1	G11	VP7	"NIE985VHYIT.1 |G11-RVA/Human-wt/BGD/Dhaka6/2001/G11P25 segment VP7, complete sequence"		
+CD4L0IR69BE.1	G11	VP7	"CD4L0IR69BE.1 |G11-RVA/Pig-tc/VEN/A253/1988/G11P7 segment VP7, complete sequence"		
+E8R3YF7P64T.1	G11	VP7	"E8R3YF7P64T.1 |G11-RVA/Pig-tc/MEX/YM/1983/G11P7 segment VP7, complete sequence"		
+DKEIJ6FAXZH.1	G11	VP7	"DKEIJ6FAXZH.1 |G11-RVA/Human-wt/NPL/KTM368/2004/G11P25 segment VP7, complete sequence"		
+9NTCBXIYBWI.1	G12	VP7	"9NTCBXIYBWI.1 |G12-RVA/Human-tc/PHL/L26/1987/G12P4 segment VP7, complete sequence"		
+XWIX9I3SKEY.1	G12	VP7	"XWIX9I3SKEY.1 |G12-RVA/Human-wt/BGD/Dhaka12/2003/G12P6 segment VP7, complete sequence"		
+MIU91NMVXE5.1	G12	VP7	"MIU91NMVXE5.1 |G12-RVA/Human-wt/BGD/Matlab13/2003/G12P6 segment VP7, complete sequence"		
+OD94FLGRRFR.1	G12	VP7	"OD94FLGRRFR.1 |G12-RVA/Human-wt/BGD/N26/2002/G12P6 segment VP7, complete sequence"		
+JUITJ4JP32S.1	G12	VP7	"JUITJ4JP32S.1 |G12-RVA/Human-wt/BGD/RV176/2000/G12P6 segment VP7, complete sequence"		
+3S5H721RAER.1	G12	VP7	"3S5H721RAER.1 |G12-RVA/Human-wt/BGD/RV161/2000/G12P6 segment VP7, complete sequence"		
+IGO97LKTXOQ.1	G12	VP7	"IGO97LKTXOQ.1 |G12-RVA/Human-wt/BEL/B4633/2003/G12P8 segment VP7, complete sequence"		
+FUCPCMP10ES.1	G12	VP7	"FUCPCMP10ES.1 |G12-RVA/Human-wt/BGD/Dhaka25/2002/G12P8 segment VP7, complete sequence"		
+GVARJ253F12.1	G12	VP7	"GVARJ253F12.1 |G12-RVA/Human-tc/THA/T152/1998/G12P9 segment VP7, complete sequence"		
+0U0N5JTLWGN.1	G13	VP7	"0U0N5JTLWGN.1 |G13-RVA/Horse-tc/GBR/L338/1991/G13P18 segment VP7, complete sequence"		
+YE2GP4PE7MM.1	G14	VP7	"YE2GP4PE7MM.1 |G14-RVA/HORSE-TC/USA/FI23/1981/G14P12 segment VP7, complete sequence"		
+XM2L8W5A71W.1	G14	VP7	"XM2L8W5A71W.1 |G14-RVA/Horse-tc/JPN/JE91/1996/G14PX segment VP7, complete sequence"		
+J6RNSEIQZ93.1	G15	VP7	"J6RNSEIQZ93.1 |G15-RVA/Cow-tc/IND/Hg18/1995/G15P21 segment VP7, complete sequence"		
+8UAEVQD7T6C.1	G15	VP7	"8UAEVQD7T6C.1 |G15-RVA/Cow-wt/ARG/B383/1998/G15P11 segment VP7, complete sequence"		
+3S6A1G2G244.1	G16	VP7	"3S6A1G2G244.1 |G16-RVA/Mouse-tc/USA/EW/XXXX/G16P16 segment VP7, complete sequence"		
+QLKG24OU3AL.1	G16	VP7	"QLKG24OU3AL.1 |G16-RVA/Mouse-tc/XXX/EMcN/XXXX/G16P16 segment VP7, complete sequence"		
+KHBRCO3GNU9.1	G17	VP7	"KHBRCO3GNU9.1 |G17-RVA/Turkey-tc/IRL/Ty-1/1979/G17P17 segment VP7, complete sequence"		
+48QRFF5AXEK.1	G18	VP7	"48QRFF5AXEK.1 |G18-RVA/Pigeon-tc/JPN/PO-13/1983/G18P17 segment VP7, complete sequence"		
+IQDFDX7R70H.1	G18	VP7	"IQDFDX7R70H.1 |G18-993-83 segment VP7, complete sequence"		
+KW781UT8MG3.1	G19	VP7	"KW781UT8MG3.1 |G19-RVA/Avian-xx/XXX/Ch-1/XXXX/G19P17 segment VP7, complete sequence"		
+S5IVMO3CRYD.1	G20	VP7	"S5IVMO3CRYD.1 |G20-RVA/Human-wt/ECU/Ecu534/2006/G20P28 segment VP7, complete sequence"		
+ON988161.1	G42	VP7	"ON988161.1 |Rotavirus A isolate RVA/Common shrew-wt/GER/KS11-0893/2010/G42P[58] segment VP7, complete sequence"	Sorex araneus	2010
+MW752846.1	G37	VP7	"MW752846.1 |Rotavirus A isolate MN41364-2018-G37P-52 segment 9, complete sequence"	Bos taurus	2018-09
+MZ054772.1	G39	VP7	"MZ054772.1 |Rotavirus A isolate RVA/Common shrew-wt/GER/KS14-269/2014/G39P[55] segment 9 segment VP7, complete sequence"	Sorex araneus	2014
+LC638706.2	G41	VP7	"LC638706.2 |Rotavirus A RVA/MultimammateMouse-wt/ZMB/MpR12/2012/G41P[57] VP7 gene for outer capsid glycoprotein VP7, complete cds"	Mastomys natalensis	2012
+LC634427.1	G40	VP7	"LC634427.1 |Rotavirus A RVA/JungleCrow-wt/JPN/JC-105/2019/G40P[56] VP7 gene for viral structural protein VP7, complete cds"	Corvus macrorhynchos	2019
+MH285845.1	G36	VP7	"MH285845.1 |Bat rotavirus isolate BatRVA/KEN/BATp39/Rousettus aegyptiacus/2015 VP7 protein (VP7) gene, complete cds"	Rousettus aegyptiacus	2015-03
+LC208550.1	G34	VP7	"LC208550.1 |Rotavirus A RVA/Raccoon-tc/JPN/Rac-311/2011/G34P[17] VP7 gene for structural protein VP7, complete cds, strain: RVA/Raccoon-tc/JPN/Rac-311/2011/G34P[17]"	Procyon lotor	2011-08
+KY971977.1	G35	VP7	"KY971977.1 |Rotavirus A isolate RVA/Alpaca-wt/PER/Alp11B/2010 segment VP7, complete sequence"	Vicugna pacos	2010-02-10
+KX814932.1	G33	VP7	"KX814932.1 |Rotavirus A isolate RVA/Bat-wt/CHN/GLRL1/2005/G33P[48] segment VP7, complete sequence"	Rousettus leschenaultii	2005
+KU128897.1	G29	VP7	"KU128897.1 |Rotavirus A strain RVA/Human-wt/Bel/BEF06018/2014/G29P41 segment VP7, complete sequence"	Homo sapiens	2013-08-27
+KX268759.1	G30	VP7	"KX268759.1 |Rotavirus A isolate Bat-wt/CMR/BatLi09/2014/G30P42_G30 segment VP7, complete sequence"	Eidolon helvum	2014-04
+KX268770.1	G31	VP7	"KX268770.1 |Rotavirus A isolate Bat-wt/CMR/BatLi08/2014/G31P42_G31 segment VP7, complete sequence"	Eidolon helvum	2014-05
+KU243688.1	G28	VP7	"KU243688.1 |Rotavirus G28 strain RVA/Shrew/CHN/LW9/2013 VP7 gene, partial cds"	Homo sapiens	2013
+LC088223.1	G28	VP7	"LC088223.1 |Rotavirus A VP7 gene for VP7 protein, complete cds, strain: RVA/CommonGull-wt/JPN/Ho374/2013/G28P[39]"	Larus canus	2013
+AB621363.1	G27	VP7	"AB621363.1 |Rotavirus A VP7 gene for outer capsid protein VP7, complete cds, RVA/SugarGlider-wt/JPN/ SG33/2010/G27P[X]"	Petaurus breviceps	2010-12-07
+AB605258.1	G26	VP7	"AB605258.1 |Porcine rotavirus A VP7 gene for VP7 protein, complete cds"	NA	2010-03-22
+GU983676.1	G25	VP7	"GU983676.1 |Rotavirus A bat/4852/Kenya/2007 segment VP7, complete sequence"	Eidolon helvum	2007
+FN393054.1	G23	VP7	"FN393054.1 |Rotavirus A pheasant/HUN/2008 VP7 gene for outer capsid glycoprotein, genomic RNA, strain Phea14246-Hun-08"	NA	2008
+AB513837.1	G24	VP7	"AB513837.1 |Bovine rotavirus A VP7 gene for outer capsid protein VP7, complete cds, strain: Dai-10"	NA	2007-01-22
+EU486973.1	G22	VP7	"EU486973.1 |Rotavirus A isolate Tu-03V0002E10 segment VP7, complete sequence"	Meleagris gallopavo	2003
+AB454421.1	G21	VP7	"AB454421.1 |Bovine rotavirus A VP7 gene for outer capsid protein VP7, complete cds, strain: AzuK-1"	NA	2006-12
