@@ -13,7 +13,7 @@ library(cowplot)
 
 
 # Load pre-filtered data (500bp threshold)
-filtered_data <- readRDS("pub_scripts/data/filtered_data_wwlong_500bp.rds")
+filtered_data <- readRDS("data/filtered_data_wwlong_500bp.rds")
 
 all_samples <- filtered_data %>% 
   distinct(sample_ID, Date)

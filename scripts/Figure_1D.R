@@ -11,7 +11,7 @@ suppressPackageStartupMessages({
 })
 
 # Load filtered data
-filtered_data <- readRDS("pub_scripts/data/filtered_data_wwlong.rds")
+filtered_data <- readRDS("data/filtered_data_wwlong.rds")
 
 # Add temporal features
 filtered_data <- filtered_data %>%

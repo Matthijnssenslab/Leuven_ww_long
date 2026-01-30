@@ -12,7 +12,7 @@ suppressPackageStartupMessages({
 utils::globalVariables(c("taxon", "value"))
 
 # Load filtered data
-filtered_data <- readRDS("pub_scripts/data/filtered_data_wwlong.rds") %>%
+filtered_data <- readRDS("data/filtered_data_wwlong.rds") %>%
   mutate(value_for_matrix = if ("RPKMF" %in% names(.)) .data[["RPKMF"]] else .data[["reads_aligned"]])
 
 # Compute rarefaction

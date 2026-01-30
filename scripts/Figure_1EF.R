@@ -13,7 +13,7 @@ suppressPackageStartupMessages({
 })
 
 # 1. Data loading
-filtered_data <- readRDS("pub_scripts/data/filtered_data_wwlong.rds")
+filtered_data <- readRDS("data/filtered_data_wwlong.rds")
 
 # ------------------------------
 family_reads <- filtered_data %>%
