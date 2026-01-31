@@ -1,5 +1,7 @@
 # Hybrid-capture-enabled longitudinal metagenomics allows strain-resolved human-associated virus surveillance in wastewater
 
+Thank you for your interest in our study!
+
 This repository contains processed datasets and R scripts to reproduce the analyses and figures from the study. It also documents how the raw reads were processed so the workflow can be reproduced end-to-end.
 
 ## Dataset (raw reads)
@@ -31,7 +33,7 @@ These steps produce the processed datasets in `data/` that are used by the figur
 
 The pre-filtering step is implemented in `scripts/create_filtered_data.R`. It removes known wet-lab contaminants and low-confidence hits to improve certainty of detections and downstream genomic assignments. We also exclude a short-amplicon contamination in Human mastadenovirus C (<2 kb). Two filtered datasets are produced:
 - Standard: >=1000 bp coverage or >=50% completeness, and >10 reads.
-- Relaxed: >=500 bp coverage or >=50% completeness, and >10 reads, used for analyses where low-read targets would otherwise be lost; after contaminant removal and the read-count filter, the chance of spurious low-coverage hits is reduced.
+- Relaxed: >=500 bp coverage or >=50% completeness, and >10 reads, used for analyses where low-read targets would otherwise be lost; after contaminant removal and the read-count filter, the chance of spurious low-coverage hits is reduced. Whenever this is used, we explicitly noted it in the manuscript. Otherwise, we use the general cutoffs. You can also follow this up in the scripts.
 
 ## Clinical datasets
 
