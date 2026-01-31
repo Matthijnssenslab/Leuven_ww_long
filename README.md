@@ -23,7 +23,7 @@ Workflow summary:
 - Quality filtering and adapter trimming with fastp, with deduplication enabled.
 - Reference mapping at >=90% nucleotide identity and >=90% read coverage.
 - Consensus sequence generation with samtools; near-duplicate consensus sequences removed at >95% similarity.
-- The pipeline reports all findings; downstream filtering was done in RStudio with cutoffs of >=1000 bp coverage or >=50% completeness (>=3000 bp for genomes >100 kb).
+- The pipeline reports all findings (we have removed internal reporting cutoff of EsViritu); downstream filtering was done in RStudio with cutoffs mentioned below.
 
 These steps produce the processed datasets in `data/` that are used by the figure scripts.
 
