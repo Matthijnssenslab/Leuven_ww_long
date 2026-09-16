@@ -129,4 +129,4 @@ MIT License. See `LICENSE`.
 ## Citation
 
 If you use this code or data, please cite:
-> Mustafa Karatas, Mandy Bloemen, Jill Swinnen, Lila Close, Marc Van Ranst, Elke Wollants, Jelle Matthijnssens. "Hybrid-capture-enabled longitudinal metagenomics allows strain-resolved human-associated virus surveillance in wastewater". SSRN Preprint. DOI: https://doi.org/10.2139/ssrn.6047769
+> Karatas, M., Bloemen, M., Swinnen, J. *et al.* Hybrid-capture-enabled longitudinal metagenomics allows strain-resolved human-associated virus surveillance in wastewater. *Nat Water* **4**, 1128–1138 (2026). https://doi.org/10.1038/s44221-026-00693-y
